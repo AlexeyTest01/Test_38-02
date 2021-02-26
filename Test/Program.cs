@@ -8,7 +8,7 @@ namespace Test
         {
             //kakljfs
             short a;
-            Console.WriteLine("hahahahahahahahahahahahaha");
+            Console.WriteLine("Mblsh!!!!!");
         }
     }
 }
