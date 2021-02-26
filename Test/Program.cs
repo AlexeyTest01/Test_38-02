@@ -13,6 +13,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!dfsdfsdfsdf");
+            Console.WriteLine("шцгшйгпрйшгпйцшгпгшРАПГШРАГЦШФЩРПЩР РЩШРУЩШЦР ЩШЦРОК ЩШ!!");
         }
     }
 }
